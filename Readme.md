@@ -28,4 +28,8 @@ This project shows how to use simple linear regression to predict students' grad
    ````bash
    streamlit run app.py
 
+# Live
+
+  https://linearregression-b3cmi6s5fhktazjqnumuhe.streamlit.app/
+
 
