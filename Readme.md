@@ -28,5 +28,4 @@ This project shows how to use simple linear regression to predict students' grad
    ````bash
    streamlit run app.py
 
-*** Translated with www.DeepL.com/Translator (free version) ***
 
