@@ -28,6 +28,8 @@ This project shows how to use simple linear regression to predict students' grad
    ````bash
    streamlit run app.py
 
+3. You can add your own grades.csv, generate a new cvs file using python SinteticDataSet.py or use the example file
+
 # Live
 
   https://linearregression-b3cmi6s5fhktazjqnumuhe.streamlit.app/
